@@ -96,6 +96,26 @@ if($action == "add_to_cart"){
 	if($save)
 		echo $save;
 }
+if($action == "custom_req"){
+	$save = $crud->custom_req();
+	if($save)
+		echo $save;
+}
+if($action == "make_req"){
+	$save = $crud->make_req();
+	if($save)
+		echo $save;
+}
+if($action == "update_custom_req"){
+	$save = $crud->update_custom_req();
+	if($save)
+		echo $save;
+}
+if($action == "update_user_req"){
+	$save = $crud->update_user_req();
+	if($save)
+		echo $save;
+}
 if($action == "update_cart"){
 	$save = $crud->update_cart();
 	if($save)
