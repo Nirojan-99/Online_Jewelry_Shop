@@ -95,7 +95,7 @@
   </aside>
 
   <footer class="main-footer">
-    <strong>Copyright &copy; 2020 <a href="https://1sourcecodr.blogspot.com/">1 source code</a>.</strong>
+    <strong>Copyright &copy; 2024 .</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Online Jewelry Shop</b>
